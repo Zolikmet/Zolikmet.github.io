@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../html-basic-1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Hamburger"
+	}
+}
